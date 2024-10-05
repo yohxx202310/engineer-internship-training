@@ -19,7 +19,7 @@
 
 <body>
     <div class="header">
-        <span>N（ベータバージョン）</span>
+        <span>fork検証</span>
     </div>
 
     <br>
